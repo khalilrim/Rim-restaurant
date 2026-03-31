@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Playfair Display', serif;
+
 }
 
 html,
@@ -10,13 +11,17 @@ body {
     height: 100%;
 }
 
+
+
 body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
     background: #f5f1ea;
     color: #3e2c23;
+
 }
+
 
 header {
     width: 100%;
