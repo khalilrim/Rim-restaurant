@@ -12,7 +12,7 @@ Rim Khalil — 1ère année Bachelor Développement Web
 - CSS3
 
 ## 🌐 Site en ligne
-
+ https://khalilrim.github.io/Rim-restaurant/
 
 ## 📁 Structure du projet
 - index.html → page d’accueil
